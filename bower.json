@@ -1,0 +1,22 @@
+{
+  "name": "adv-fe-project",
+  "homepage": "https://github.com/AndreyWeber/adv-fe-project",
+  "authors": [
+    "Andrey Weber <Andrey.Weber@gmail.com>"
+  ],
+  "description": "Advanced Front-End cource home task optional project",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "handlebars": "^3.x.x"
+  }
+}

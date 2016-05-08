@@ -1,0 +1,16 @@
+{
+  "name": "adv-fe-project",
+  "version": "1.0.0",
+  "description": "Advanced Front-End course optional home task project",
+  "main": "app.js",
+  "config": {
+    "port": "3000"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Andrey Weber",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
